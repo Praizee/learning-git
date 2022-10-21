@@ -1,0 +1,7 @@
+mkdir foldername (enter) = create new folder
+
+touch filename.extension = create new file
+
+git add . = add files in current directory
+
+git add -A = add files in all directories
